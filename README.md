@@ -1,3 +1,8 @@
+Simulação de um jogo da velha
+
+
+
+
 def criar_tabuleiro():
     return [[" " for _ in range(3)] for _ in range(3)]
 
